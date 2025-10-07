@@ -28,8 +28,8 @@
   "production": {
     "xibit": {
       "store_url": "https://store.vitruveo.xyz",
-      "search_url": "xibit.app",
-      "stores_url": "xibit.live",
+      "search_url": "https://xibit.app",
+      "stores_url": "https://xibit.live",
       "studio_url": "https://studio.vitruveo.xyz",
       "admin_url": "http://studio-admin.vitruveo.xyz",
       "airdrop_url": "https://airdrop.vitruveo.xyz",
