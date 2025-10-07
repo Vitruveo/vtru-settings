@@ -1,0 +1,43 @@
+{
+  "common": {
+    "xibit": {
+      "about_url": "https://about.xibit.app"
+    },
+    "vitruveo": {
+      "dreamverse_url": "https://dreamverse.vitruveo.xyz",
+      "base_url": "https://vitruveo.xyz",
+      "scope_url": "https://scope.vitruveo.xyz",
+      "domain": "vitruveo.xyz"
+    }
+  },
+  "qa": {
+    "xibit": {
+      "store_url": "https://store.vtru.dev",
+      "search_url": "https://search.vtru.dev",
+      "stores_url": "https://search.vtru.dev/stores",
+      "studio_url": "https://studio.vtru.dev",
+      "admin_url": "https://admin.vtru.dev",
+      "airdrop_url": "https://airdrop.vtru.dev",
+      "slideshow_url": "https://slideshow.vtru.dev"
+    },
+    "vitruveo": {
+      "explorer_url": "https://test-explorer.vitruveo.xyz",
+      "web3_network_rpc": "https://test-rpc.vitruveo.xyz"
+    }
+  },
+  "production": {
+    "xibit": {
+      "store_url": "https://store.vitruveo.xyz",
+      "search_url": "xibit.app",
+      "stores_url": "xibit.live",
+      "studio_url": "https://studio.vitruveo.xyz",
+      "admin_url": "http://studio-admin.vitruveo.xyz",
+      "airdrop_url": "https://airdrop.vitruveo.xyz",
+      "slideshow_url": "https://slideshow.vitruveo.xyz"
+    },
+    "vitruveo": {
+      "explorer_url": "https://explorer.vitruveo.xyz",
+      "web3_network_rpc": "https://rpc.vitruveo.xyz"
+    }
+  }
+}
