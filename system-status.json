@@ -13,7 +13,11 @@
         "message": "Xibit is beta software. For the first 30 days after your initial consignment, no funds may be withdrawn."
       }
     ],
-    "warn": [],
+    "warn": [
+      {
+        "message": "Consignments are currently paused. We are troubleshooting the issue."
+      }
+    ],
     "error": [],
     "maintenance": []
   },
