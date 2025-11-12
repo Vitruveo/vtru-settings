@@ -14,9 +14,6 @@
       }
     ],
     "warn": [
-      {
-        "message": "Consignments are currently paused. We are troubleshooting the issue."
-      }
     ],
     "error": [],
     "maintenance": []
